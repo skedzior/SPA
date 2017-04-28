@@ -15,8 +15,8 @@ class AppComponent extends React.Component {
     );
   }
 }
-
+//test
 AppComponent.defaultProps = {
-};
+}; 
 
 export default AppComponent;
